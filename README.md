@@ -93,4 +93,12 @@ AI Story Studio is an independent demonstration prototype created for educationa
 
 Story drafts, quality suggestions, and opportunities are generated from simulated examples and are illustrative only.
 
-Saved stories exist only while the page is open. Use
+Saved stories exist only while the page is open. Use Export JSON to keep a copy.
+
+The prototype is not affiliated with any organization or intended to represent a production product management application.
+
+---
+
+**Created by Nneka Anadu**
+
+[View My Product Leadership Portfolio](https://nnekaanadu-art.github.io/) | [Connect on LinkedIn](https://www.linkedin.com/in/NnekaAnadu)
