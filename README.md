@@ -32,7 +32,7 @@ AI Story Studio provides an interactive workspace that combines simulated AI-ass
 
 **Story Drafting**
 
-Enter business context, desired outcomes, and requirements to generate a draft user story, acceptance criteria, assumptions, and questions requiring validation.
+Enter a business requirement to generate a draft. The wishlist example uses a predefined story with acceptance criteria and open questions. Other requirements produce a labelled generic template with editable placeholders. Story Opportunities contains the predefined comparison and sharing examples.
 
 **Quality and Readiness Review**
 
